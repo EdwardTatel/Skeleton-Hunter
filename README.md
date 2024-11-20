@@ -3,16 +3,24 @@ Skeleton Hunter is an endless arcade combat game where you have to fight skeleto
 
 # Game Asset Optimization Techniques Used
 -2D Optimization Techniques
+    
     -Sprite / Texture atlasing
+    
     -Sprite Compression
+    
 -3D Optimization Techniques
+    
     -LOD (Level of Details)
+    
     -Static Batching
+    
     -Occlusion Culling
+    
     -Asynchronous Loading
 
 # Unity Play Link
 You can play the game here using the Unity Play link: https://play.unity.com/en/games/baf83d55-e1d6-4094-bdb3-9278aed86604/skeleton-hunter
+
 (Due to the game not specifically built for WebGL, there might be some unexpected bugs that could be experienced while playing)
 
 # Screenshots
