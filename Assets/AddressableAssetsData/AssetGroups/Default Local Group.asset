@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 71f22e64ef202994fbe5f9f39ac93279
+  m_SerializeEntries:
+  - m_GUID: 50b03e1798f340a46a9c209bba20737e
+    m_Address: Assets/Prefabs/Plant_7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e93abdc606f4484ea52dfaa3bd3a9c5
+    m_Address: Assets/Prefabs/Plant_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80dd0c5c7fd6a3847992c6e354b35f2c
+    m_Address: Assets/Prefabs/Plant_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8da5d7bd660b2e43bc9dfca11e88120
+    m_Address: Assets/Prefabs/Plant_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de3c40f8d81ee954893c235833dff9d2
+    m_Address: Assets/Prefabs/Rock_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4ebbe026514fd04abda17a4c1683f0b
+    m_Address: Assets/Prefabs/Rock_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87f62d6549ee668469b8418ceb7e5417
+    m_Address: Assets/Prefabs/Rock_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c0fdff634d49ae48acd6d9591e73c8d
+    m_Address: Assets/Prefabs/Rock_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 760cba08d6e32d14db17b3b8c2258a40
+    m_Address: Assets/Prefabs/Rock_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 817cb96d20794a645819eb8a76ee26fa
+    m_Address: Assets/Prefabs/Rock_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b59c43006a7c5f419e306a88a3fd4f7
+    m_Address: Assets/Prefabs/Skeleton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1390d3879c981540bfd301f2130bcfd
+    m_Address: Assets/Prefabs/Tree_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 480ce44a92e2af8499203e8ea37bd81a
+    m_Address: Assets/Prefabs/Tree_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b18eb8d35a47eba4f935df2eade69323
+    m_Address: Assets/Prefabs/Tree_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7041b64429830ef4aa35358b1b6c4687, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1ba32a8c7055e87438480923df05dd85, type: 2}
+    - {fileID: 11400000, guid: 499ea0ffc66785c4290ae521c830b351, type: 2}
